@@ -5,11 +5,11 @@
 
 ### About myself
 
-- 🔭&nbsp;&nbsp;I’m currently authoring [Next Right Now](https://github.com/UnlyEd/next-right-now)
+- 🔭&nbsp;&nbsp;WeChat: hi_pengyu
 
-- 🌱&nbsp;&nbsp;I’m currently learning **tons of things about tons of stuff (grind grind grind)**
+- 🌱&nbsp;&nbsp;QQ: 342994309
 
-- 🤝&nbsp;&nbsp;I’m looking for help with **an OSS chatbot project I haven't had time to work on yet (contributors welcome, contact me!)**
+- 🤝&nbsp;&nbsp;Email: pengyu@live.cn
 
 - 💬&nbsp;&nbsp;Ask me about **entrepreneurship, mentorship, programming, daily hacks, productivity, security**
 
