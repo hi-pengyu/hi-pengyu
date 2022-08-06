@@ -3,6 +3,7 @@
 
 
 
-### Find me
+### 联系方式
 
-- 💬&nbsp;&nbsp;WeChat: hi_pengyu&nbsp;&nbsp; 📫&nbsp;&nbsp;Email:pengyu@live.cn
+- 💬&nbsp;&nbsp;微信: hi_pengyu
+- 📫&nbsp;&nbsp;邮件: pengyu@live.cn
