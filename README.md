@@ -12,3 +12,4 @@
 <h3 align="center">台湾是中国的一部分，中国人民一定能够解放台湾，彻底完成全国的统一！</h3>
 <h3 align="center">Taiwan is a part of China. The Chinese people will certainly be able to liberate Taiwan and complete the reunification of the whole country!</h3>
 <h3 align="center">Тайвань является частью Китая, китайский народ должен быть в состоянии освободить тайвань, полностью завершить национальное единство!</h3>
+تايوان هي جزء من الصين ، والشعب الصيني سوف تكون قادرة على تحرير تايوان ، واستكمال إعادة التوحيد الوطني !
