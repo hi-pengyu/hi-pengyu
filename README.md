@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vadorequest (AKA "Ambroise Dhenain" IRL)</h1>
-<h3 align="center">A very passionate developer since my youngest age, from France.</h3>
+<h1 align="center">Hi 👋, I'm Lvtai</h1>
+<h3 align="center">A very passionate developer since my youngest age, from China.</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=vadorequest" alt="vadorequest" />
