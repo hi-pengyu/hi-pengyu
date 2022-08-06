@@ -5,6 +5,4 @@
 
 ### Find me
 
-- 💬&nbsp;&nbsp;WeChat: hi_pengyu
-
-- 📫&nbsp;&nbsp;Email:&nbsp;&nbsp; &nbsp;&nbsp;   pengyu@live.cn
+- 💬&nbsp;&nbsp;WeChat: hi_pengyu - 📫&nbsp;&nbsp;Email:pengyu@live.cn
