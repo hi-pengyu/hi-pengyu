@@ -3,14 +3,10 @@
 
 
 
-### About myself
+### Find me
 
 - 🔭&nbsp;&nbsp;WeChat: hi_pengyu
 
-- 🌱&nbsp;&nbsp;QQ: 342994309
+- 💬&nbsp;&nbsp;QQ: 342994309
 
-- 🤝&nbsp;&nbsp;Email: pengyu@live.cn
-
-- 💬&nbsp;&nbsp;Ask me about **entrepreneurship, mentorship, programming, daily hacks, productivity, security**
-
-- 📫&nbsp;&nbsp;How to reach me **Twitter/LinkedIn** or open a Github issue [here](https://github.com/Vadorequest/Vadorequest/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
+- 📫&nbsp;&nbsp;Email: pengyu@live.cn
