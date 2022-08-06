@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lvtai</h1>
-<h3 align="center">A very passionate developer since my youngest age, from China.</h3>
+<h3 align="center">一位来自中国北京的计算机工程师</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=vadorequest" alt="vadorequest" />
-</p>
+
 
 ### About myself
 
