@@ -5,8 +5,6 @@
 
 ### Find me
 
-- 🔭&nbsp;&nbsp;WeChat: hi_pengyu
-
-- 💬&nbsp;&nbsp;QQ: 342994309
+- 💬&nbsp;&nbsp;WeChat: hi_pengyu
 
 - 📫&nbsp;&nbsp;Email: pengyu@live.cn
