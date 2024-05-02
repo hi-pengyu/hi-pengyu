@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm PengYu</h1>
 <h3 align="center">一位来自中国的计算机工程师</h3>
+<h3 align="center">总我人问我为什么干计算机？不怕秃头吗？ 唯有热爱罢了</h3>
 
 ### 联系方式
 
