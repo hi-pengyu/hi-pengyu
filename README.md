@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm PengYu</h1>
 <h3 align="center">一位来自中国的计算机工程师</h3>
-<h4 align="center">既然把计算机当作自己的一生所爱，就应当矢志不渝的走下去</h4>
+<h4 align="center">既然把计算机当作自己的一生所爱，就应当矢志不渝的走下去。</h4>
 
 ### 联系方式
 
