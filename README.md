@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm PengYu</h1>
-<h3 align="center">一位来自中国的计算机工程师</h3>
-<h4 align="center">996？007？不重要，唯有热爱罢了！</h4>
+<h3 align="center">A Computer Engineer from China</h3>
+<h4 align="center">996? 007? It doesn't matter, passion is all that counts！</h4>
 
-### 联系方式
+### Contact Information
 
-- 💬&nbsp;&nbsp;电话: 3859991181 （美国区号+1） wechat同号
-- 📫&nbsp;&nbsp;邮件: pengyu@live.cn
-- 本人有看邮件的习惯，有事首选发邮件，斜斜！！!
+- 💬&nbsp;&nbsp;Phone: +1 385 999 1181 (US area code) WeChat: same number
+- 📫&nbsp;&nbsp;Email: pengyu@live.cn
+- I regularly check my emails, so please email me first if you need to get in touch. Thank you!
 
 ---
